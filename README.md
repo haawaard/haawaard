@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Howard</h1>
-<h3 align="center">Music and Rain</h3>
+<h1 align="center">🌧️ Hi, I'm Howard ☕</h1>
+<h3 align="center">Each day is an opportunity to learn something new and grow💡.</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d82e1833-57f9-41cd-afbc-804a71baf321">
